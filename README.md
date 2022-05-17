@@ -1,7 +1,7 @@
 - 👋 Eu sou o Fabio
 - 👀 Tenho interesse em linguagens de programação, matemática e tecnologias em geral.
-- 🌱 Atualmente estou aprendendo utilizar a programação para melhor qualidade no ensino da matemática ...
--    Estou tentando colaborar com o uso de códigos para a aprendizagem matemática, além dos muros escolares...
+- 🌱 A programação e a utilização da lógica matemática sempre fizeram parte da minha vida.
+- Atualmente estou lecionando matemática, e vivo em constante aprendizado.
 
 
 <!---
