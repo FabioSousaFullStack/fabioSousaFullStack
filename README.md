@@ -4,9 +4,8 @@
 
 # Evoluções na plataforma github.
 
-!FabioMatech's States](https://github-readme-stats.vercel.app/api?username=fabiomatech&theme=dark&show_icons=true)
 
-
+![FabioMatech](https://github-readme-stats.vercel.app/api?username=fabiomatech&show_icons=true&theme=tokyonight)
 
 
 <!---
