@@ -3,6 +3,9 @@
 - 🌱 A programação e a utilização da lógica matemática sempre fizeram parte da minha vida.
 - Atualmente estou lecionando matemática, e vivo em constante aprendizado.
 
+[![FabioMatech GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioMatech)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 FabioMatech/FabioMatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
