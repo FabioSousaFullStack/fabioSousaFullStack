@@ -1,15 +1,13 @@
 # Professor de matemática e tecnólogo em sistemas para internet:
-  Formado em licenciatura plena em matemática, tecnologia em sistemas para internet e em formação em engenharia da computação.sempre tendo como pilar na vida a família e os estudos, vivendo em constante formação pessoal e profissional,  acredita que a  evolução tecnologica consciente é um ponto essencial para a humanidade. 
+  Formado em licenciatura plena em matemática, tecnologia em sistemas para internet e em formação em engenharia da computação. com mais de 12 anos de experiência na área da educação, sempre tendo como pilar na vida a família e os estudos, vivendo em constante formação pessoal e profissional,  acredita que a  evolução tecnologica consciente é um ponto essencial para a humanidade. 
 
 
 # Evoluções na plataforma github.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiomatech&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomatech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+!FabioMatech's States](https://github-readme-stats.vercel.app/api?username=fabiomatech&theme=dark&show_icons=true)
 
-# Repositórios.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 FabioMatech/FabioMatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
