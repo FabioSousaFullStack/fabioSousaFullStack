@@ -3,7 +3,7 @@
 - 🌱 A programação e a utilização da lógica matemática sempre fizeram parte da minha vida.
 - Atualmente estou lecionando matemática, e vivo em constante aprendizado.
 
-[![FabioMatech GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioMatech)](https://github.com/anuraghazra/github-readme-stats)
+`ocean_dark` ![ocean_dark][ocean_dark] | `city_lights` ![city_lights][city_lights] | `github_dark` ![github_dark][github_dark] |
 
 
 
