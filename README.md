@@ -4,7 +4,7 @@
 - Atualmente estou lecionando matemática, e vivo em constante aprendizado.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiomatech)](https://github.com/anuraghazra/github-readme-stats)
+![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiomatech&show_icons=true&theme=radical)
 
 
 <!---
