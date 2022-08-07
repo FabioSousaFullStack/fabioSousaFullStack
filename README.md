@@ -1,4 +1,4 @@
-# Breve descrição:
+# Professor de matemática e tecnólogo em sistemas para internet:
   Formado em licenciatura plena em matemática, tecnologia em sistemas para internet e em formação em engenharia da computação.sempre tendo como pilar na vida a família e os estudos, vivendo em constante formação pessoal e profissional,  acredita que a  evolução tecnologica consciente é um ponto essencial para a humanidade. 
 
 
