@@ -1,5 +1,6 @@
-# Professor de matemática e tecnólogo em sistemas para internet:
-  Formado em licenciatura plena em matemática, tecnologia em sistemas para internet e em formação em engenharia da computação. com mais de 12 anos de experiência na área da educação, sempre tendo como pilar na vida a família e os estudos, vivendo em constante formação pessoal e profissional,  acredita que a  evolução tecnológica consciente é um ponto essencial para a humanidade. 
+# Desenvolvedor Fullstack {Typescript: Angularjs , Python: Django}:
+  Atualmente trabalho na área da educação do Estado de São Paulo, como professor de matemática,  onde atuo como profissional da rede a mais de 12 anos, desenvolvendo a habilidade de fazer as crianças e adolescentes raciocinarem de maneira lógica, introduzindo a lógica de programação com aplicativos como o scratch da mit, tive a oportunidade de palestrar para os jovens, sobre o tema, "internet" e "aplicativos e softwares"., onde me gerou homenagem.
+  Desde jovem sempre fui vidrado na família, estudo e em constante aperfeiçoamento profissional, reflexo disto é estar a mais de 22 anos no serviço público e não me permitir estar na zona de conforto, além de me considerar muito feliz com minha esposa e filho.
 
 
 # Evoluções na plataforma github.
