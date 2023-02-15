@@ -26,16 +26,8 @@ Algumas das minhas habilidades técnicas incluem:
 - Github
 - Visual Studio
 - Pycharm
--
-Alguns dos projetos em que trabalhei incluem
 
-[Nome do projeto]: [Breve descrição do projeto, tecnologias utilizadas, sua função no projeto, etc.]
-[Nome do projeto]: [Breve descrição do projeto, tecnologias utilizadas, sua função no projeto, etc.]
-[Nome do projeto]: [Breve descrição do projeto, tecnologias utilizadas, sua função no projeto, etc.]
-Contato
-Se você estiver interessado em discutir um projeto ou oportunidade de trabalho, sinta-se à vontade para entrar em contato comigo pelos seguintes meios:
-
-E-mdesenvfabiosousafullstack@gmail.com]
+E-mail: [fabiosousafullstack@gmail.com]
 
 LinkedIn: [https://www.linkedin.com/in/fabiosousafullstack]
 
